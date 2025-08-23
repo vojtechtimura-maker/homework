@@ -132,6 +132,8 @@ while i < len(names):
 codes_with_zero = [code for code in random_codes if "0" in code]
 print(codes_with_zero)
 
+print("test")
+
 
 
 
